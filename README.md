@@ -113,8 +113,7 @@ mugisha-bookstore/
 ├── routes/
 │   └── books.js         # API routes
 ├── Express.js           # Main server file
-├── .env                 # Environment variables (not pushed)
-├── .env.example         # Environment template
+├── .env                 # Environment variables ├── .env.example         # Environment template
 └── package.json
 ```
 
